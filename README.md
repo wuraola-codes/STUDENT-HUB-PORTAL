@@ -64,3 +64,9 @@ This project is actively being developed, with potential improvements and additi
 Building this project gave me practical experience with creating an interactive web application and thinking about how different features can work together to solve everyday problems for students.
 
 It also helped me practice turning an idea into a functional project rather than simply writing code for isolated exercises.
+
+👤 Author
+
+Wuraola Ogedengbe
+
+Web Developer and data analyst student
